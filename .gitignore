@@ -4,4 +4,8 @@ _site
 .jekyll-metadata
 vendor
 
+<<<<<<< HEAD
 "Gemfile.lock"
+=======
+Gemfile.lock
+>>>>>>> e5cfac85ee652947779d3ac53f54dcb3a23c71c6
